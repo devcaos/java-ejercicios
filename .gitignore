@@ -6,16 +6,22 @@ bin/
 out/
 *.class
 
-# Configuración de los IDE (Eclipse e IntelliJ)
+# Configuración de los IDE (Eclipse, IntelliJ y VS Code)
 .settings/
 .classpath
 .project
+.factorypath
+.apt_generated
 .idea/
 *.iml
+.kotlin
+.vscode/
 
 # Sistema
 Thumbs.db
 desktop.ini
+.DS_Store
 
-# Scripts locales
+# Scripts locales y papelera
 *.bat
+_to_delete/
