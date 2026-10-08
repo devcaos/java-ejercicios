@@ -17,5 +17,5 @@ out/
 Thumbs.db
 desktop.ini
 
-# Script de subida
-subir-a-github.bat
+# Scripts locales
+*.bat
