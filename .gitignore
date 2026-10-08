@@ -1,0 +1,18 @@
+# Configuración del workspace de Eclipse
+.metadata/
+
+# Archivos compilados
+bin/
+out/
+*.class
+
+# Configuración de los IDE (Eclipse e IntelliJ)
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Sistema
+Thumbs.db
+desktop.ini
